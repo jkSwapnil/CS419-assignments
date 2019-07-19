@@ -1,0 +1,11 @@
+competition1-
+main1.py is for competition1. 
+Follwing command for executing--
+python main1.py --loss square_hinge_loss --regularizer L4 --batch-size 64 --train-data train.csv --test-data test.csv --loss-weight 1
+ 
+competition2-
+main2.py is for competition2.
+Follwing command for executing--
+python main2.py --loss square_hinge_loss --regularizer L4 --batch-size 64 --train-data train.csv --test-data test.csv --loss-weight 1
+ 
+The values of parameters can be changed according to the need.
